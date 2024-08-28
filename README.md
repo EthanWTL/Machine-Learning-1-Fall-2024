@@ -11,8 +11,15 @@ Here is a quick comparision between three terms.
 ## b. Logistic Regression
 Log Odds provides an alternate expression for logistic regression
 
- $log(\frac{p}{1-p})$
+ $log(\frac{p}{1-p}) = \beta_0 + \beta_1X_1 + \beta_2X_2 + ... + \beta_kX_k$
 
+ Where $\beta_0, \beta_1, \beta_2, ..., \beta_k$ are coefficients, $X_1, X_2,..., X_k$ are the variables, $p$ is the success probability of the dependent variables.
+ 
+ ```Logit Transformation``` 
+
+ $log(\frac{have disease}{1-have disease}) = -5 + 0.04Age + 0.2Cholesterol$
+
+ 
 ---
 # 2. Expectation
 
