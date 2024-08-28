@@ -26,7 +26,7 @@ Log Odds provides an alternate expression for logistic regression
 
  This tells us if the age grow up 1 year, then the odds will increase by 4%.
 
- If the Odds have a disease is 50%, which is $\frac{p}{1-p} = 0.5$ or $1:2$ which means the probability is 33.3% right now. 
+ If the odds of having a disease is 50%, which is $\frac{p}{1-p} = 0.5$ or $1:2$ which means the probability is 33.3% right now. 
 
  If the age increase by 1, then the new Odds is going to be $50\\% * 1.04 = 52\\%$, now we get,
 
