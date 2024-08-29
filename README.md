@@ -34,6 +34,12 @@ Log Odds provides an alternate expression for logistic regression
 
  so the new probability of having this disease after one year older is $35.13\\%$.
 
+ ## d. Paper Selection
+ * [Decentralized Machine Learning Approach on ICU Admission Prediction for Enhanced Patient Care Using COVID-19 Data](https://dergipark.org.tr/en/pub/pims/issue/81233/1390925), Tianlong Wang, Takeshi Matsuda, Mehmet DIK
+
+ Left Hand Side: Shall a patient got admitted into ICU?
+ 
+ Right Hand Side: clinical data (sex, gender,...) + disease history information (Pneumonia, diabetes,...).
  
 ---
 # 2. Expectation
