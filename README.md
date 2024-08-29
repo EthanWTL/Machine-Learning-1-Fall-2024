@@ -40,6 +40,16 @@ Log Odds provides an alternate expression for logistic regression
  Left Hand Side: Shall a patient got admitted into ICU?
  
  Right Hand Side: clinical data (sex, gender,...) + disease history information (Pneumonia, diabetes,...).
+
+ Method's comparison: baseline models v.s. Federated Learning
+
+<img width="814" alt="image" src="https://github.com/user-attachments/assets/1ec35c3b-5392-4b44-8a10-5caeb2adb0d9">
+
+
+Logistic Regression: ACC: 76%, Recall:52%, Precision: 81%
+
+
+Federated Learning: ACC 76%, Recall: 60%, preceision: 78%
  
 ---
 # 2. Expectation
