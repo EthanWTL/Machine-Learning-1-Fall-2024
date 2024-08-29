@@ -37,9 +37,9 @@ Log Odds provides an alternate expression for logistic regression
  ## d. Paper Selection
  * [Decentralized Machine Learning Approach on ICU Admission Prediction for Enhanced Patient Care Using COVID-19 Data](https://dergipark.org.tr/en/pub/pims/issue/81233/1390925), Tianlong Wang, Takeshi Matsuda, Mehmet DIK
 
- Left Hand Side: Shall a patient got admitted into ICU?
+ ```Left Hand Side```: Shall a patient got admitted into ICU?
  
- Right Hand Side: clinical data (sex, gender,...) + disease history information (Pneumonia, diabetes,...).
+ ```Right Hand Side```: clinical data (sex, gender,...) + disease history information (Pneumonia, diabetes,...).
 
  Method's comparison: baseline models v.s. Federated Learning
 
